@@ -3,7 +3,6 @@
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
 *We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
-
 ---
 
 ## Edit a file
@@ -16,7 +15,6 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
 5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
 6. Go back to the **Source** page.
-
 ---
 
 ## Create a file
@@ -30,7 +28,6 @@ Next, you’ll add a new file to this repository.
 5. Go back to the **Source** page.
 
 Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
-
 ---
 
 ## Clone a repository
